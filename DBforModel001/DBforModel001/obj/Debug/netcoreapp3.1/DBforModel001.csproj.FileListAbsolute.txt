@@ -1,0 +1,13 @@
+C:\Users\hirus\source\repos\DBforModel001\DBforModel001\bin\Debug\netcoreapp3.1\DBforModel001.exe
+C:\Users\hirus\source\repos\DBforModel001\DBforModel001\bin\Debug\netcoreapp3.1\DBforModel001.deps.json
+C:\Users\hirus\source\repos\DBforModel001\DBforModel001\bin\Debug\netcoreapp3.1\DBforModel001.runtimeconfig.json
+C:\Users\hirus\source\repos\DBforModel001\DBforModel001\bin\Debug\netcoreapp3.1\DBforModel001.runtimeconfig.dev.json
+C:\Users\hirus\source\repos\DBforModel001\DBforModel001\bin\Debug\netcoreapp3.1\DBforModel001.dll
+C:\Users\hirus\source\repos\DBforModel001\DBforModel001\bin\Debug\netcoreapp3.1\DBforModel001.pdb
+C:\Users\hirus\source\repos\DBforModel001\DBforModel001\obj\Debug\netcoreapp3.1\DBforModel001.csprojAssemblyReference.cache
+C:\Users\hirus\source\repos\DBforModel001\DBforModel001\obj\Debug\netcoreapp3.1\DBforModel001.AssemblyInfoInputs.cache
+C:\Users\hirus\source\repos\DBforModel001\DBforModel001\obj\Debug\netcoreapp3.1\DBforModel001.AssemblyInfo.cs
+C:\Users\hirus\source\repos\DBforModel001\DBforModel001\obj\Debug\netcoreapp3.1\DBforModel001.csproj.CoreCompileInputs.cache
+C:\Users\hirus\source\repos\DBforModel001\DBforModel001\obj\Debug\netcoreapp3.1\DBforModel001.dll
+C:\Users\hirus\source\repos\DBforModel001\DBforModel001\obj\Debug\netcoreapp3.1\DBforModel001.pdb
+C:\Users\hirus\source\repos\DBforModel001\DBforModel001\obj\Debug\netcoreapp3.1\DBforModel001.genruntimeconfig.cache
